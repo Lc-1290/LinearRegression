@@ -101,7 +101,7 @@ This visualization compares the size of the coefficients learned by the Linear R
 ## Project structure
 
 ```text
-ecommerce-customer-spending-ml/
+LinearRegression/
 ├── data/
 │   └── ecommerce.csv
 ├── figures/
@@ -120,8 +120,8 @@ ecommerce-customer-spending-ml/
 Clone the repository and enter the project folder:
 
 ```bash
-git clone <your-repository-url>
-cd ecommerce-customer-spending-ml
+git clone https://github.com/Lc-1290/LinearRegression.git
+cd LinearRegression
 ```
 
 Create and activate a virtual environment:
